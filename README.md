@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GzdeGrlr
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning JavaScript, React, etc. 
+- 🌱 I’m currently learning JavaScript & React. 
 - 📫 You can reach me via e-mail: gzde.gurler@gmail.com
 
 <!---
